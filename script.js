@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Yes? 🥺 \n I love you, Gana 🥹🫶🏻✨";
+ p.innerText = "Yes? 🥺 \n I love you, (xyz) 🥹🫶🏻✨";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
