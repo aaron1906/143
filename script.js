@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Yes? 🥺 \n I love you, (xyz) 🥹🫶🏻✨";
+ p.innerText = "Yes? 🥺 \n I love you, Gia! 🥹🫶🏻✨";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
@@ -61,3 +61,4 @@ confetti.render();
   p.style.transform = "translate(-50%, -50%)";
   document.body.appendChild(p);
 });
+
